@@ -1,2 +1,2 @@
 # intro-to-data-science
-Contains work from the online course at Udacity
+Contains exercises from the online course at Udacity
